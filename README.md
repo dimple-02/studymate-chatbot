@@ -144,3 +144,15 @@ For deployment help and troubleshooting, see [DEPLOYMENT.md](DEPLOYMENT.md).
 ---
 
 Made with ❤️ for students — happy studying! 📚
+
+---
+
+## Visuals
+
+- Demo GIF / screenshot (replace with actual file in `frontend/public`):
+
+![app-screenshot](./frontend/public/screenshot-placeholder.png)
+
+---
+
+If you'd like, I can add real screenshots or a demo GIF to the README — tell me which you'd prefer.
